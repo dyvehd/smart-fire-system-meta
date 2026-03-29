@@ -1,6 +1,7 @@
 [submodule "smart-fire-system"]
 	path = smart-fire-system
 	url = https://github.com/dyvehd/smart-fire-system.git
+	branch = master
 [submodule "python-mqtt-adafruit"]
 	path = python-mqtt-adafruit
 	url = https://github.com/dyvehd/python-mqtt-adafruit.git
